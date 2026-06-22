@@ -65,11 +65,11 @@ This dashboard enables stakeholders to monitor policy activity, claim outcomes, 
 
 ### Insurance Dashboard
 
-![Insurance Dashboard](Insurance_Dashboard.png)
+![Insurance Dashboard](Insurance_Dashboard.PNG)
 
 ### Claims Data View
 
-![Claims Data View](Claims_Data_View.png)
+![Claims Data View](Claims_Data_View.PNG)
 
 ## Repository Contents
 
